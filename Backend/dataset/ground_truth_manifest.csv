@@ -1,0 +1,62 @@
+Folder,Filename,ExpectedVerdict,RiskScore,Reason
+0_team_live_demo,team_1_passport.jpg,APPROVED,5,Team member authentic card
+1_authentic_passports,authentic_1.jpg,APPROVED,6,Valid ICAO card
+1_authentic_passports,authentic_2.jpg,APPROVED,6,Valid ICAO card
+1_authentic_passports,authentic_3.jpg,APPROVED,6,Valid ICAO card
+1_authentic_passports,authentic_4.jpg,APPROVED,6,Valid ICAO card
+1_authentic_passports,authentic_5.jpg,APPROVED,6,Valid ICAO card
+1_authentic_passports,authentic_6.jpg,APPROVED,6,Valid ICAO card
+1_authentic_passports,authentic_7.jpg,APPROVED,6,Valid ICAO card
+1_authentic_passports,authentic_8.jpg,APPROVED,6,Valid ICAO card
+1_authentic_passports,authentic_9.jpg,APPROVED,6,Valid ICAO card
+1_authentic_passports,authentic_10.jpg,APPROVED,6,Valid ICAO card
+1_authentic_passports,authentic_11.jpg,APPROVED,6,Valid ICAO card
+1_authentic_passports,authentic_12.jpg,APPROVED,6,Valid ICAO card
+1_authentic_passports,authentic_13.jpg,APPROVED,6,Valid ICAO card
+1_authentic_passports,authentic_14.jpg,APPROVED,6,Valid ICAO card
+1_authentic_passports,authentic_15.jpg,APPROVED,6,Valid ICAO card
+2_fake_mrz_and_expired,fake_mrz_1.jpg,NOT_APPROVED,89,Modified DOB front vs MRZ
+2_fake_mrz_and_expired,fake_mrz_2.jpg,NOT_APPROVED,89,Expired document & Corrupted 7-3-1 Checksum
+2_fake_mrz_and_expired,fake_mrz_3.jpg,NOT_APPROVED,89,Modified DOB front vs MRZ
+2_fake_mrz_and_expired,fake_mrz_4.jpg,NOT_APPROVED,89,Expired document & Corrupted 7-3-1 Checksum
+2_fake_mrz_and_expired,fake_mrz_5.jpg,NOT_APPROVED,89,Modified DOB front vs MRZ
+2_fake_mrz_and_expired,fake_mrz_6.jpg,NOT_APPROVED,89,Expired document & Corrupted 7-3-1 Checksum
+2_fake_mrz_and_expired,fake_mrz_7.jpg,NOT_APPROVED,89,Modified DOB front vs MRZ
+2_fake_mrz_and_expired,fake_mrz_8.jpg,NOT_APPROVED,89,Expired document & Corrupted 7-3-1 Checksum
+2_fake_mrz_and_expired,fake_mrz_9.jpg,NOT_APPROVED,89,Modified DOB front vs MRZ
+2_fake_mrz_and_expired,fake_mrz_10.jpg,NOT_APPROVED,89,Expired document & Corrupted 7-3-1 Checksum
+2_fake_mrz_and_expired,fake_mrz_11.jpg,NOT_APPROVED,89,Modified DOB front vs MRZ
+2_fake_mrz_and_expired,fake_mrz_12.jpg,NOT_APPROVED,89,Expired document & Corrupted 7-3-1 Checksum
+2_fake_mrz_and_expired,fake_mrz_13.jpg,NOT_APPROVED,89,Modified DOB front vs MRZ
+2_fake_mrz_and_expired,fake_mrz_14.jpg,NOT_APPROVED,89,Expired document & Corrupted 7-3-1 Checksum
+2_fake_mrz_and_expired,fake_mrz_15.jpg,NOT_APPROVED,89,Modified DOB front vs MRZ
+3_fake_tampered_ela,tampered_ela_1.jpg,NOT_APPROVED,94,Photo replacement & stamp forgery
+3_fake_tampered_ela,tampered_ela_2.jpg,NOT_APPROVED,94,Photo replacement & stamp forgery
+3_fake_tampered_ela,tampered_ela_3.jpg,NOT_APPROVED,94,Photo replacement & stamp forgery
+3_fake_tampered_ela,tampered_ela_4.jpg,NOT_APPROVED,94,Photo replacement & stamp forgery
+3_fake_tampered_ela,tampered_ela_5.jpg,NOT_APPROVED,94,Photo replacement & stamp forgery
+3_fake_tampered_ela,tampered_ela_6.jpg,NOT_APPROVED,94,Photo replacement & stamp forgery
+3_fake_tampered_ela,tampered_ela_7.jpg,NOT_APPROVED,94,Photo replacement & stamp forgery
+3_fake_tampered_ela,tampered_ela_8.jpg,NOT_APPROVED,94,Photo replacement & stamp forgery
+3_fake_tampered_ela,tampered_ela_9.jpg,NOT_APPROVED,94,Photo replacement & stamp forgery
+3_fake_tampered_ela,tampered_ela_10.jpg,NOT_APPROVED,94,Photo replacement & stamp forgery
+3_fake_tampered_ela,tampered_ela_11.jpg,NOT_APPROVED,94,Photo replacement & stamp forgery
+3_fake_tampered_ela,tampered_ela_12.jpg,NOT_APPROVED,94,Photo replacement & stamp forgery
+3_fake_tampered_ela,tampered_ela_13.jpg,NOT_APPROVED,94,Photo replacement & stamp forgery
+3_fake_tampered_ela,tampered_ela_14.jpg,NOT_APPROVED,94,Photo replacement & stamp forgery
+3_fake_tampered_ela,tampered_ela_15.jpg,NOT_APPROVED,94,Photo replacement & stamp forgery
+4_fake_face_mismatch,mismatch_1_doc.jpg,NOT_APPROVED,92,1:1 Face biometric mismatch
+4_fake_face_mismatch,mismatch_2_doc.jpg,NOT_APPROVED,92,1:1 Face biometric mismatch
+4_fake_face_mismatch,mismatch_3_doc.jpg,NOT_APPROVED,92,1:1 Face biometric mismatch
+4_fake_face_mismatch,mismatch_4_doc.jpg,NOT_APPROVED,92,1:1 Face biometric mismatch
+4_fake_face_mismatch,mismatch_5_doc.jpg,NOT_APPROVED,92,1:1 Face biometric mismatch
+4_fake_face_mismatch,mismatch_6_doc.jpg,NOT_APPROVED,92,1:1 Face biometric mismatch
+4_fake_face_mismatch,mismatch_7_doc.jpg,NOT_APPROVED,92,1:1 Face biometric mismatch
+4_fake_face_mismatch,mismatch_8_doc.jpg,NOT_APPROVED,92,1:1 Face biometric mismatch
+4_fake_face_mismatch,mismatch_9_doc.jpg,NOT_APPROVED,92,1:1 Face biometric mismatch
+4_fake_face_mismatch,mismatch_10_doc.jpg,NOT_APPROVED,92,1:1 Face biometric mismatch
+4_fake_face_mismatch,mismatch_11_doc.jpg,NOT_APPROVED,92,1:1 Face biometric mismatch
+4_fake_face_mismatch,mismatch_12_doc.jpg,NOT_APPROVED,92,1:1 Face biometric mismatch
+4_fake_face_mismatch,mismatch_13_doc.jpg,NOT_APPROVED,92,1:1 Face biometric mismatch
+4_fake_face_mismatch,mismatch_14_doc.jpg,NOT_APPROVED,92,1:1 Face biometric mismatch
+4_fake_face_mismatch,mismatch_15_doc.jpg,NOT_APPROVED,92,1:1 Face biometric mismatch

@@ -1,0 +1,28 @@
+﻿# Node / Frontend dependencies
+node_modules/
+Frontend/node_modules/
+dist/
+Frontend/dist/
+.env
+.env.local
+
+# Python Virtual Environments & Cache
+venv/
+.venv/
+env/
+Backend/venv/
+Backend/.venv/
+__pycache__/
+*.pyc
+
+# Heavy AI Weights & Downloaded Datasets (Generated locally via scripts)
+*.h5
+*.pth
+*.pt
+*.pb
+*.onnx
+*.pkl
+*.zip
+*.tar.gz
+scikit_learn_data/
+Backend/data/lfw*/

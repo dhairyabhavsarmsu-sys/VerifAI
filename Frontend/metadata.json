@@ -1,0 +1,8 @@
+{
+  "name": "VerifAI - AI Border Document Screening System",
+  "description": "Tactical border security document screening system with ELA tamper heatmaps, 1:1 facial biometrics, ICAO 9303 MRZ validation, and interactive 3D forensic analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
